@@ -4,7 +4,7 @@ import { fileURLToPath } from 'url';
 import { format } from "util";
 
 // main configs
-global.botNumber = "62895702633030";
+global.botNumber = "6283146544053";
 global.bot = {
   public: true,
   antiCall: true,
